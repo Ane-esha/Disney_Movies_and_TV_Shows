@@ -1,10 +1,10 @@
-Disney Movies and TV Shows Analysis
+# Disney Movies and TV Shows Analysis
 
-Project Overview
+## Project Overview
 
 This project analyzes the Disney Movies and TV Shows dataset using Power BI. After cleaning and preprocessing the dataset in Excel, the cleaned data was imported into Power BI for data modeling, analysis, and visualization. An interactive three-page dashboard was created to explore Disney content by title, type, release year, rating, country, and genre, providing insights into the distribution and characteristics of movies and TV shows.
 
-Project Workflow
+## Project Workflow
 
 - Collected the Disney Movies and TV Shows dataset from Kaggle.
 - Cleaned and preprocessed the dataset in Excel by handling missing values and correcting data formats.
@@ -16,7 +16,7 @@ Project Workflow
 - Added interactive filters and search options for title, type, year, rating, country, and continent.
 - Designed a three-page interactive dashboard to present the findings through visualizations and interactive elements.
 
-Tools and Technologies
+## Tools and Technologies
 
 - Microsoft Excel 
 - Power BI
@@ -25,7 +25,10 @@ Tools and Technologies
 - Data Modeling
 - Interactive Visualizations
 
-Key Insights
+## Cleaned data using Excel
+[excel data](
+
+## Key Insights
 
 - Compared the distribution of movies and TV shows available on Disney.
 - Explored content trends across different release years.

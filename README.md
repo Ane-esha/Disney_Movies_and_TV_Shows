@@ -29,7 +29,7 @@ This project analyzes the Disney Movies and TV Shows dataset using Power BI. Aft
 [excel data](https://github.com/Ane-esha/Disney_Movies_and_TV_Shows/blob/main/Mini%20Project%20Preprocessing.xlsx)
 
 ## Visualization using Power BI
-[Dashboard](
+[Dashboard](https://github.com/Ane-esha/Disney_Movies_and_TV_Shows/blob/main/Mini%20Project%20Vis.pbix)
 
 ## Key Insights
 
@@ -40,6 +40,6 @@ This project analyzes the Disney Movies and TV Shows dataset using Power BI. Aft
 - Explored the variety of genres available across movies and TV shows.
 - Used interactive filters and search options to identify specific titles and analyze content across different categories.
 
-Conclusion
+## Conclusion
 
 This project provided insights into Disney's content library by analyzing movies and TV shows across multiple dimensions, including release year, rating, country, and genre. The interactive Power BI dashboard makes it easier to explore content distribution and trends, demonstrating practical skills in data cleaning, data modeling, DAX, and dashboard development.

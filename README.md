@@ -26,7 +26,7 @@ This project analyzes the Disney Movies and TV Shows dataset using Power BI. Aft
 - Interactive Visualizations
 
 ## Cleaned data using Excel
-[excel data](https://github.com/Ane-esha/Disney_Movies_and_TV_Shows/blob/main/Mini%20Project%20Preprocessing.xlsx)
+[Excel data](https://github.com/Ane-esha/Disney_Movies_and_TV_Shows/blob/main/Mini%20Project%20Preprocessing.xlsx)
 
 ## Visualization using Power BI
 [Dashboard](https://github.com/Ane-esha/Disney_Movies_and_TV_Shows/blob/main/Mini%20Project%20Vis.pbix)
